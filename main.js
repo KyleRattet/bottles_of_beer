@@ -16,7 +16,7 @@ var bottles="bottles";
      }
 
      if (counter == 1) {
-         console.log("No more bottles of beer on the wall. Go to the nearest beer stor to stock up!");
+         console.log("No more bottles of beer on the wall. Go to the nearest beer store to stock up!");
      }
  }
 
